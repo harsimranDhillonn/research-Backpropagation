@@ -11,4 +11,3 @@ Backpropagation is a learning algorithm used to train artificial neural networks
 
 Full paper:
 [Backpropagation Algorithm.pdf](https://github.com/harsimranDhillonn/research-Backpropagation/files/11360628/Backpropagation.Algorithm.pdf)
-Grade: A+
